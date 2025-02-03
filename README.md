@@ -23,7 +23,7 @@ Desenvolvedor Fullstack apaixonado por tecnologia e criação de soluções inov
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FFS4ant0s&layout=compact&theme=radical)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FFS4ant0s&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FFS4ant0s&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FFS4nt0s&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FFS4ant0s&layout=compact&theme=radical&langs_count=8)
 
 ---
 
