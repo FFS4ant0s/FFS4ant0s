@@ -14,7 +14,7 @@ Desenvolvedor Fullstack apaixonado por tecnologia e criação de soluções inov
 🔹 **Front-End**: JavaScript (ReactJS)  
 🔹 **Banco de Dados**: PostgreSQL, MySQL  
 🔹 **Versionamento**: Git & GitHub  
-🔹 **Outros**: Docker, Resend (Envio de E-mails), APIs REST  
+🔹 **Outros**: Docker, APIs REST, Microservices... 
 
 ---
 
