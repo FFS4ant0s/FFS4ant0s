@@ -3,9 +3,9 @@
 ## 🚀 Sobre mim  
 Desenvolvedor Fullstack apaixonado por tecnologia e criação de soluções inovadoras. Atualmente, trabalho com desenvolvimento de aplicações escaláveis utilizando **Spring Boot, ReactJS e Django**.
 
-📍 **Localização**: Brasília - Brasil  
+📍 **Localização**: Brasília - DF - Brasil  
 💼 **Atualmente**: Desenvolvedor Backend | Projetos com Django e Spring Boot  
-🎯 **Objetivo**: Criar soluções eficientes para empresas e pequenos negócios  
+🎯 **Objetivo**: Criar soluções eficientes para empresas  
 
 ---
 
